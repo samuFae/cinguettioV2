@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'BasicFont';
+  src: url('./styles/fonts/Philosopher-Regular.ttf'); /* IE9 Compat Modes */
+}
+
+body {
+  margin: 0;
+  font-family: 'BasicFont';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}

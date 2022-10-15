@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffff;
+}
+
+.App {
+  text-align: center;
+}
+
+iframe {
+  display: none;
+  visibility: hidden;
+}
+
+.header {
+  background-color: #f5eb33;
+  box-shadow: 0 12px 25px #2b782c;
+  padding: 0.5rem 2rem;
+  text-align: left;
+}
